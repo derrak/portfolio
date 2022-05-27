@@ -27,6 +27,10 @@ a{
   color:#fdb078;
 }
 
+li{
+  margin-bottom: 10%;
+}
+
 .image{
   float: left;
   width: 13%;
@@ -39,6 +43,11 @@ a{
   box-sizing: border-box;
 }
 
+.listTitle{
+  color: #2a9c9d;
+  margin-bottom: -5%;
+}
+
 .column{
   width: 20%;
   float: left;
@@ -46,12 +55,12 @@ a{
 
 .listDeets{
   font-variant: small-caps;
-
 }
 
-.listTitle{
-  color: #2a9c9d;
+.listDesc{
+  margin-top: -3%;
 }
+
 .highlight{
   background-color: #f36273;
 }
