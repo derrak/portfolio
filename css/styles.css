@@ -5,12 +5,12 @@ body{
 
 h1{
   font-size: 300%;
-  color: #2a9c9d;
+  color: #1f7172;
   margin-left: 2%;
 }
 
 h2{
-  color: #2a9c9d;
+  color: #1f7172;
   margin-left: 2%;
 }
 
@@ -20,7 +20,7 @@ h3{
 }
 
 ul{
-  margin-left: 1%;
+  margin-left: -5%;
 }
 
 a{
@@ -51,4 +51,7 @@ a{
 
 .listTitle{
   color: #2a9c9d;
+}
+.highlight{
+  background-color: #f36273;
 }
