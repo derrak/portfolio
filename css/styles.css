@@ -43,3 +43,12 @@ a{
   width: 22%;
   float: left;
 }
+
+.listDeets{
+  font-variant: small-caps;
+
+}
+
+.listTitle{
+  color: #2a9c9d;
+}
