@@ -1,0 +1,38 @@
+body{
+  background-color: #fffbeb;
+}
+
+h1{
+  color: #2a9c9d;
+  margin-left: 2%;
+}
+
+h2{
+  color: #2a9c9d;
+  margin-left: 2%;
+}
+
+h3{
+  color: #2a9c9d;
+  margin-left: 2%;
+}
+
+ul{
+  margin-left: 1%;
+}
+
+a{
+  color:#fdb078;
+}
+
+.image{
+  float: left;
+  width: 33%;
+  border: solid #2a9c9d;
+  border-width: 3px;
+  background-color: #f7e293;
+  margin-left: 2%;
+  margin-right: 4%;
+  margin-bottom: 2%;
+  box-sizing: border-box;
+}
