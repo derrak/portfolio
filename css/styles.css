@@ -1,8 +1,10 @@
 body{
   background-color: #fffbeb;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
+  font-size: 300%;
   color: #2a9c9d;
   margin-left: 2%;
 }
