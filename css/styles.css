@@ -45,7 +45,6 @@ li{
 
 .listTitle{
   color: #2a9c9d;
-  margin-bottom: -5%;
 }
 
 .column{
@@ -55,10 +54,11 @@ li{
 
 .listDeets{
   font-variant: small-caps;
+  margin-top: -1px;
 }
 
 .listDesc{
-  margin-top: -3%;
+  margin-top: -10px;
 }
 
 .highlight{
