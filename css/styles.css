@@ -29,7 +29,7 @@ a{
 
 .image{
   float: left;
-  width: 33%;
+  width: 28%;
   border: solid #2a9c9d;
   border-width: 3px;
   background-color: #f7e293;
@@ -37,4 +37,9 @@ a{
   margin-right: 4%;
   margin-bottom: 2%;
   box-sizing: border-box;
+}
+
+.column{
+  width: 22%;
+  float: left;
 }
