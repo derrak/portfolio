@@ -18,10 +18,11 @@ The directions were to design a portfolio website that included specific HTML ta
 
 
 ## Setup/Installation Requirements
+* Clone this repository to your desktop
+* Navigate to the top level of the directory
+* Open index.html in your browser
 
 * Visit the final working website at: https://derrak.github.io/portfolio/
-* Visit the code at: https://github.com/derrak/portfolio
-
 
 ## Known Bugs
 

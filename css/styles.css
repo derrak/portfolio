@@ -33,15 +33,17 @@ li{
 
 .image{
   float: left;
-  width: 13%;
-  border: solid #2a9c9d;
-  border-width: 3px;
-  background-color: #f7e293;
+  width: 12%;
+  padding: 2px;
+  border: solid #f7e293;
+  border-width: 4px;
+  background-color: #2a9c9d;
   margin-left: 2%;
   margin-right: 4%;
   margin-bottom: 2%;
   box-sizing: border-box;
 }
+
 
 .listTitle{
   color: #2a9c9d;
