@@ -22,7 +22,7 @@ The directions were to design a portfolio website that included specific HTML ta
 * Navigate to the top level of the directory
 * Open index.html in your browser
 
-_You can also visit a working version of the website at: https://derrak.github.io/portfolio/ _
+_You can also visit a working version of the website at:  https://derrak.github.io/portfolio/_
 
 ## Known Bugs
 
